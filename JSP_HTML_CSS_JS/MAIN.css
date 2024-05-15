@@ -1,0 +1,51 @@
+
+#LINKS ul
+{
+    margin-left: 950px;
+}
+
+
+.INNERHEADINGS
+{
+    text-align: center;
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 1000px;
+    top: 410px;
+    color:yellow;
+}
+
+input
+{
+    width: 200px;
+    height: 25px;
+}
+
+#LOGINSECTION
+{
+    position: absolute;
+    left: 1000px;
+    top: 200px;
+    color: yellow;
+}
+
+#LOGINSECTION table tr td
+{
+    font-size: 20px;
+    color: yellow;
+}
+
+#LOGINSECTION table tr td button
+{
+    width: 100PX;
+    margin-left: 50PX;
+}
+#LOGINSECTION a
+{
+ color: yellow;
+}

@@ -1,0 +1,129 @@
+a
+{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+
+#LINKS ul
+{
+    margin-left: 700px;
+}
+
+#LINKS ul li a
+{
+    color: blueviolet;
+}
+
+.INNERHEADINGS
+{
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 1000px;
+    top: 410px;
+    color:yellow;
+}
+
+input
+{
+    width: 200px;
+    height: 25px;
+}
+
+#ORDERFORMHEADING
+{
+    margin-left: 15PX;
+    color: yellow;
+}
+#PARATHASELECTOR
+{
+    width: 100%;
+    height: 25PX;
+}
+
+
+#PARATHASELECTORSECTION
+{
+    margin-left: 15PX;
+    margin-top: 20px;
+    width: 300px;
+}
+#PARATHASELECTORSECTION table tr td select
+{
+    width: 200px;
+}
+
+#PARATHASELECTORSECTION table tr td button
+{
+    margin-left: 5px;
+    width: 125px;
+    height: 30px;
+}
+
+
+#PARATHASECTION
+{
+    position: absolute;
+    top: 235PX;
+    margin-left: 425PX;
+}
+#RATESECTION
+{
+    position: absolute;
+    margin-left: 635px;
+    top: 235px;
+}
+
+#QUANTITYSECTION
+{
+    position: absolute;
+    top: 235PX;
+    margin-left: 845PX;
+}
+
+#TOTALAMOUNTSECTION
+{
+    position: absolute;
+    top: 245PX;
+    margin-left: 775PX;
+}
+
+#SEARCHPARATHA
+{
+    position: absolute;
+    left: 290PX;
+    top: 315PX;
+   
+}
+#SEARCHPARATHA button
+{
+    position: fixed;
+    width: 100PX;
+    height: 30PX;
+}
+
+#CURRENTUSER
+{
+    position: absolute;
+    top: 150PX;
+    left: 50PX;
+    color: blueviolet;
+}
+
+#PROCEEDTOORDER
+{
+    position: absolute;
+    left: 1100px;
+    top: 300px;
+    width: 200PX;
+    height: 30PX;
+    
+}
+
+    
+    

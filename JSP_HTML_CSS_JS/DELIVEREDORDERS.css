@@ -1,0 +1,38 @@
+
+#LINKS ul
+{
+    margin-left: 700px;
+}
+
+
+.INNERHEADINGS
+{
+    text-align: center;
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 1000px;
+    top: 410px;
+    color:yellow;
+}
+
+#ORDERDETAILSECTION table
+{
+    width:975px;
+    color: yellow;
+    margin-left: 15px;
+    border-style: solid;
+    border-color: yellow;
+    border-spacing:10px;
+    
+}
+#ORDERDETAILSECTION table tr th
+{
+   background-color: yellow;
+   color: blueviolet;
+   font-size: 20px;
+}

@@ -1,0 +1,106 @@
+body
+{
+    background-color: blueviolet;
+}
+a
+{
+    text-decoration: none;
+}
+
+li
+{
+    text-decoration: none;
+    display: inline;
+    margin-left: 15px;  
+}
+
+#LOGO
+{
+    font-family: Harrington;
+    font-size: 22px;
+    font-weight:900;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: yellow;
+}
+
+#LINKS
+{
+    position: absolute;
+    top: 140px;
+    margin-left: 15px;
+    height: 50px;
+    width: 1300px;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+#LINKS ul
+{
+    margin-left: 950px;
+}
+
+#LINKS ul li a
+{
+    color: blueviolet;
+}
+
+.INNERHEADINGS
+{
+    text-align: center;
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 1000px;
+    top: 410px;
+    color:yellow;
+}
+
+
+#SIGNUPSECTION
+{
+    margin-left: 500PX;
+    margin-top: 100PX;
+    width: 450PX;
+}
+#SIGNUPSECTION table tr td
+{
+    font-size: 20px;
+    color: yellow;
+}
+
+#SIGNUPSECTION table tr td input
+{
+    width: 250px;
+    height: 20px;
+}
+
+#SIGNUPSECTION table tr td button
+{
+    width: 270px;
+    height: 30px;
+}
+
+
+#SIGNUPSECTION button
+{
+    width: 200PX;
+    margin-left: 125PX;
+}
+
+#SIGNUPSECTION .RESET
+{
+    width: 100px;
+    margin-left: 175px;
+}
+
+#SIGNUPSECTION #GENERATEUSERNAME
+{
+    
+    height: 25PX;
+    width: 150PX;
+}

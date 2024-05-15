@@ -1,0 +1,91 @@
+
+#LINKS ul
+{
+    margin-left: 700px;
+}
+
+
+.INNERHEADINGS
+{
+    text-align: center;
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 25px;
+    top: 325px;
+    color:yellow;
+}
+
+#ORDERDETAILSECTION
+{
+    
+}
+
+#ORDERDETAILSECTION table
+{
+    width: 1300px;
+    color: yellow;
+    margin-left: 15px;
+    border-style: solid;
+    border-color: yellow;
+    border-spacing: 10px;
+    
+}
+#ORDERDETAILSECTION table tr th
+{
+   background-color: yellow;
+   color: blueviolet;
+   font-size: 20px;
+}
+
+#ORDERSTATUSMODIFICATIONSECTION
+{
+    position: absolute;
+    top: 190PX;
+    left: 925PX;
+}
+#ORDERSTATUSMODIFICATIONSECTION form table
+{
+     font-size: 20PX;
+    color: yellow;
+}
+
+#ORDERSTATUSMODIFICATIONSECTION  form table tr td input
+{
+    height: 25PX;
+    width: 250PX;
+    margin-left: 10PX;
+}
+#ORDERSTATUSMODIFICATIONSECTION  form table tr td input.RADIO
+{
+    width: 17PX;
+    height: 17PX;
+}
+
+#ORDERSTATUSMODIFICATIONSECTION  form button.MODIFY
+{
+    width: 110px;
+    height: 25px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+#ORDERSTATUSMODIFICATIONSECTION  form button.RESET
+{
+    width: 110px;
+    height: 25px;
+    margin-left: 40px;
+}
+
+.CANCELBUTTON
+{
+    width: 150PX;
+    height: 25PX;
+    margin-left: 1160PX;
+    margin-top: 25PX;
+  
+}

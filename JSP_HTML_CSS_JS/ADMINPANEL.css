@@ -1,0 +1,31 @@
+a
+{
+    color: blueviolet;
+}
+.INNERHEADINGS
+{
+    text-align: center;
+    color: yellow;
+}
+
+#LINKS ul
+{
+    margin-left: 725px;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 510px;
+    top: 580px;
+    color: yellow;
+}
+
+#CURRENTUSER
+{
+    position: absolute;
+    top: 150PX;
+    left: 50PX;
+    color: blueviolet;
+}

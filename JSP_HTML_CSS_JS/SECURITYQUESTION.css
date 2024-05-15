@@ -1,0 +1,24 @@
+
+#SECURITYQUESTIONSECTION
+{
+    margin-left: 450PX;
+    margin-top: 100PX;
+    width: 450PX;
+}
+
+#SECURITYQUESTION
+{
+    width: 100%;
+}
+
+#SECURITYANSWER
+{
+    width: 445px;
+}
+
+#SECURITYQUESTIONSECTION button
+{
+    width: 175PX;
+    height: 25PX;
+    margin-left: 135PX;
+}
