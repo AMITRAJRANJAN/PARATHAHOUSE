@@ -1,0 +1,65 @@
+
+#LINKS ul
+{
+    margin-left: 950px;
+}
+
+.INNERHEADINGS
+{
+    text-align: center;
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 1000px;
+    top: 410px;
+    color:yellow;
+}
+
+#SIGNUPSECTION
+{
+    margin-left: 500PX;
+    margin-top: 100PX;
+    width: 450PX;
+}
+#SIGNUPSECTION table tr td
+{
+    font-size: 20px;
+    color: yellow;
+}
+
+#SIGNUPSECTION table tr td input
+{
+    width: 250px;
+    height: 20px;
+}
+
+#SIGNUPSECTION table tr td button
+{
+    width: 270px;
+    height: 30px;
+}
+
+
+#SIGNUPSECTION button
+{
+    width: 200PX;
+    margin-left: 125PX;
+}
+
+#SIGNUPSECTION .RESET
+{
+    width: 100px;
+    margin-left: 175px;
+}
+
+#SIGNUPSECTION #GENERATEUSERNAME
+{
+    
+    height: 25PX;
+    width: 150PX;
+}
+

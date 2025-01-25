@@ -1,0 +1,48 @@
+body
+{
+    background-color: blueviolet;
+}
+a
+{
+    text-decoration: none;
+}
+
+li
+{
+    text-decoration: none;
+    display: inline;
+    margin-left: 15px;  
+}
+
+#LOGO
+{
+    font-family: Harrington;
+    font-size: 22px;
+    font-weight:900;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: yellow;
+}
+
+#LINKS
+{
+    position: absolute;
+    top: 140px;
+    margin-left: 15px;
+    height: 50px;
+    width: 1300px;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+
+
+#LINKS ul li a
+{
+    color: blueviolet;
+}
+
+.INNERHEADINGS
+{
+    color: yellow;
+}

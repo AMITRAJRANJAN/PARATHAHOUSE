@@ -1,0 +1,102 @@
+
+#LINKS ul
+{
+    margin-left: 700px;
+}
+
+.INNERHEADINGS
+{
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 1000px;
+    top: 410px;
+    color:yellow;
+}
+
+input
+{
+    width: 200px;
+    height: 25px;
+}
+
+#ORDERDETAIL
+{
+    color: yellow;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#DELIVERYDETAILSECTION table tr td.DELIVERYADDRESS input
+{
+    width: 475PX;
+}
+#DELIVERYDETAILSECTION table tr td.PINCODE input
+{
+    width: 265PX;
+}
+
+table#ORDERDETAIL tr td input
+{
+    width: 1000px;
+}
+
+form h2#PAYMENTFORMHEADING
+{
+    margin-left: 20PX;
+    color: yellow;
+}
+
+form div#PAYMENTMODESECTION
+{
+    margin-left: 20PX;
+}
+
+form div#PAYMENTMODESECTION select
+{
+    width: 200PX;
+    height: 30PX;
+}
+form div#PAYMENTMODESECTION button
+{
+    width: 125PX;
+    height: 30PX;
+    margin-left: 25PX;
+}
+
+#PAYMENTBLOCK
+{
+    position: absolute;
+    left: 15px;
+    top: 505px;
+    
+}
+#PAYMENTBLOCK .PAYMENTBLOCK
+{
+    display: inline-block;
+    margin: 15PX;
+    height: 70px;
+}
+
+#PAYMENTBLOCK input#TRANSACTIONDETAIL
+{
+    width: 550PX;
+}
+
+#PAYMENTBLOCK button
+{
+    margin-left: 50px;
+    width: 200px;
+    height: 30px;
+}
+
+#PAYMENTBLOCK p
+{
+    margin-left: 20px;
+    color: yellow;
+    font-size: 20px;
+}

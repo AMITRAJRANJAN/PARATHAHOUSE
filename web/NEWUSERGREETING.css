@@ -1,0 +1,22 @@
+
+#NEWUSERGREETINGMESSAGE
+{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+    color: yellow;
+}
+
+#NEWUSERGREETINGMESSAGE p a
+{
+    font-size: 30px;
+    color: yellow;
+}
+
+#NEWUSERGREETINGMESSAGE p a:hover
+{
+    background-color: yellow;
+    font-size: 30px;
+    color:blueviolet;
+}
+

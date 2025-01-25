@@ -1,0 +1,63 @@
+
+#LINKS ul
+{
+    margin-left: 700px;
+}
+
+
+.INNERHEADINGS
+{
+    color: yellow;
+}
+
+
+#MESSAGE
+{
+    position: absolute;
+    left: 1050px;
+    top: 410px;
+    color:yellow;
+}
+
+input
+{
+    width: 200px;
+    height: 25px;
+}
+#ORDERSECTION
+{
+    margin-left: 15PX;
+    margin-top: 75PX;
+    color: yellow;
+}
+
+#ORDERDETAILSECTION .ORDERDETAIL
+{
+    display:inline-block;
+    margin-left: 15PX;
+}
+
+#DELIVERYSECTION
+{
+    margin-left: 15PX;
+    margin-top: 60PX;
+    color: yellow;
+}
+#DELIVERYDETAILSECTION .DELIVERYDETAIL
+{
+    display:inline-block;
+    margin-left: 15PX;
+}
+
+#DELIVERYDETAILSECTION #DELIVERYADDRESSSECTION input
+{
+    width: 440PX;
+}
+
+#DELIVERYDETAILSECTION button
+{
+    margin-left: 125PX;
+    width: 225PX;
+    height: 30PX;
+}
+
